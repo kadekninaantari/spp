@@ -1,0 +1,1 @@
+Ini adalah text pertama saya di git
